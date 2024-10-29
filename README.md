@@ -4,7 +4,6 @@
 <h1 align="center" >
 ━━━━━ × ᴀʟᴜɴᴏ ᴅᴇ ᴀᴅs ɴᴀ ғᴜɴᴅᴀᴄᴀᴏ sᴀɴᴛᴏ ᴀɴᴅʀᴇ × ━━━━━
 
-━━━━━━━ × ᴇx-ᴀʟᴜɴᴏ ᴅᴇ ᴛɪ ᴅᴀ ᴇsᴄᴏʟᴀ ᴀʟᴜʀᴀ × ━━━━━━━
 </h1>
 <div align="center">
   <a href="https://github.com/oigao">
